@@ -1,6 +1,4 @@
-Absolutely, Pragya! Here's a **well-structured and clean `README.md` file** for your portfolio website — styled to look professional, easy to read on GitHub, and ready to impress recruiters or collaborators 👇
 
----
 
 ```markdown
 # 💼 Pragya Mishra — Developer Portfolio
@@ -8,7 +6,7 @@ Absolutely, Pragya! Here's a **well-structured and clean `README.md` file** for 
 [![Website](https://img.shields.io/badge/Visit-Portfolio-0a9396?style=for-the-badge&logo=vercel&logoColor=white)](https://pragyamishraportfolio25.vercel.app/)
 [![GitHub](https://img.shields.io/badge/Follow%20Me-On%20GitHub-3a86ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pragyakuumarimishra)
 
----
+
 
 ## ✨ Overview
 
@@ -22,7 +20,7 @@ This is a clean, responsive, and dark-themed website that highlights:
 
 > 🌐 **Live Site:** [https://pragyamishraportfolio25.vercel.app](https://pragyamishraportfolio25.vercel.app)
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -33,11 +31,11 @@ This is a clean, responsive, and dark-themed website that highlights:
 | `JavaScript` | Interactivity |
 | `Vercel`   | Deployment |
 
----
+
 
 ## 📁 Project Structure
 
-```
+
 
 portfolio/
 ├── index.html          # Main HTML file
@@ -49,9 +47,9 @@ portfolio/
 │   ├── images/         # Project thumbnails, icons
 │   └── resume.pdf      # Resume download
 
-````
 
----
+
+
 
 ## 🧠 Key Features
 
