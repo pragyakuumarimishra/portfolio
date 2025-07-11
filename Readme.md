@@ -53,14 +53,14 @@ portfolio/
 
 ## 🧠 Key Features
 
-- 📱 **Responsive Design** – Mobile and desktop ready
-- 🌙 **Dark Themed UI** – Clean and modern
-- 🧑‍💻 **About Me Section** – Know who I am
-- 💼 **Projects Section** – Highlights of what I’ve built
-- 📄 **Resume Download** – Downloadable PDF CV
-- 📬 **Contact Form** – Reach out directly from the site
+- 📱 Responsive Design – Mobile and desktop ready
+- 🌙 Dark Themed UI – Clean and modern
+- 🧑‍💻 About Me Section – Know who I am
+- 💼 Projects Section – Highlights of what I’ve built
+- 📄 Resume Download – Downloadable PDF CV
+- 📬 Contact Form – Reach out directly from the site
 
----
+
 
 ## 🚀 How to Use / Run Locally
 
