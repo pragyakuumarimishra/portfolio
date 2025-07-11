@@ -18,7 +18,7 @@ This is a clean, responsive, and dark-themed website that highlights:
 - My resume for download
 - A contact form to get in touch with me
 
-> 🌐 **Live Site:** [https://pragyamishraportfolio25.vercel.app](https://pragyamishraportfolio25.vercel.app)
+> 🌐 Live Site: [https://pragyamishraportfolio25.vercel.app](https://pragyamishraportfolio25.vercel.app)
 
 
 
