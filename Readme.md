@@ -1,4 +1,3 @@
-Great, Pragya! Based on your portfolio at [https://pragyamishraportfolio25.vercel.app/](https://pragyamishraportfolio25.vercel.app/), here's a professional and clean `README.md` file for your GitHub repository:
 
 ---
 
