@@ -90,12 +90,13 @@ portfolio/
 
 * **LinkedIn**: [Pragya Kumari Mishra](https://www.linkedin.com/in/pragya-kumari-mishra-667b27200/)
 * **GitHub**: [@pragyakuumarimishra](https://github.com/pragyakuumarimishra)
-* **Portfolio**: [pragyamishraportfolio25.vercel.app](https://pragyamishraportfolio25.vercel.app)
+* **Portfolio**: [Link](https://pragyamishraportfolio25.vercel.app)
 
 
 
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
 
 
