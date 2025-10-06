@@ -62,19 +62,69 @@ portfolio/
 
 
 
-## 🚀 How to Use / Run Locally
+## 🚀 How to View the Portfolio
 
+### Option 1: View Live Deployment (Easiest)
+The portfolio is already deployed and live! Simply visit:
+**[https://pragyamishraportfolio25.vercel.app](https://pragyamishraportfolio25.vercel.app)**
+
+### Option 2: Run Locally
+
+#### Method A: Direct File Opening
 1. Clone this repository:
    ```bash
-   git clone https://github.com/pragyakuumarimishra/your-repo-name.git
-````
+   git clone https://github.com/pragyakuumarimishra/portfolio.git
+   ```
 
 2. Navigate to the project folder:
-
    ```bash
-   cd your-repo-name
+   cd portfolio
    ```
-3. Open `index.html` in your browser (double-click or use Live Server).
+
+3. Open `index.html` in your browser:
+   - **Windows**: Double-click `index.html` or right-click → "Open with" → Choose your browser
+   - **Mac**: Double-click `index.html` or right-click → "Open With" → Choose your browser
+   - **Linux**: Right-click `index.html` → "Open With" → Choose your browser
+
+#### Method B: Using Python HTTP Server (Recommended for best results)
+1. Clone and navigate to the repository (see steps 1-2 above)
+
+2. Start a local server:
+   ```bash
+   # Python 3
+   python -m http.server 8000
+   
+   # Python 2
+   python -m SimpleHTTPServer 8000
+   ```
+
+3. Open your browser and visit: `http://localhost:8000`
+
+#### Method C: Using npx serve
+1. Clone and navigate to the repository (see steps 1-2 above)
+
+2. Run:
+   ```bash
+   npx serve
+   ```
+
+3. Open the URL shown in the terminal (usually `http://localhost:3000`)
+
+#### Method D: Using VS Code Live Server Extension
+1. Clone and navigate to the repository (see steps 1-2 above)
+
+2. Open the folder in VS Code
+
+3. Install the "Live Server" extension if you haven't already
+
+4. Right-click on `index.html` and select "Open with Live Server"
+
+5. The portfolio will automatically open in your default browser
+
+### Troubleshooting
+- **JavaScript not working?** Make sure you're using a local server (Methods B, C, or D) instead of opening the file directly
+- **Styles not loading?** Check that the `css` and `js` folders are in the same directory as `index.html`
+- **Images not showing?** Some images are hosted on GitHub - ensure you have an internet connection
 
 
 ## 📌 What I Learned
