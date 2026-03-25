@@ -1,0 +1,13 @@
+# Air Quality Monitoring System
+node_modules/
+dist/
+.env
+*.log
+logs/
+__pycache__/
+.DS_Store
+Thumbs.db
+*.pyc
+.vscode/
+.idea/
+coverage/
